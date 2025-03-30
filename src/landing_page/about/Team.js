@@ -30,7 +30,7 @@ function Team() {
               <p> He has done his Btech in Computer scince from Manipal University
                 Jaipur.</p> 
                <p> Playing basketball is his zen.</p> 
-              <p>Connect on <a href=""> Homepage</a> / <a href="">TradingQnA </a>/ <a href="">Twitter </a>
+              <p>Connect on <a href="/homepage">Homepage</a> / <a href="/tradingqna">TradingQnA</a> / <a href="/twitter">Twitter</a>
             </p>
           </div>
         </div>

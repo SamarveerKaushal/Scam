@@ -21,14 +21,14 @@ function Hero(){
             </p>
           </div>
           <div className="col-4 p-4">
-            <img src="./images/intradayTrades.svg"/>
+            <img src="./images/intradayTrades.svg" alt="Intraday Trades"/>
             <h1 className="fs-3">Intraday and F&O trades</h1>
             <p className="text-muted">
             Flat ₹ 20 or 0.03% (whichever is lower) per executed order on intraday trades across equity, currency, and commodity trades. Flat ₹20 on all option trades.
             </p>
           </div>
           <div className="col-4 p-4">
-            <img src="./images/pricingEquity.svg"/>
+            <img src="./images/pricingEquity.svg" alt="Free Direct MF"/>
             <h1 className="fs-3">Free direct MF</h1>
             <p className="text-muted">
             All direct mutual fund investments are absolutely free — ₹ 0 commissions & DP charges.

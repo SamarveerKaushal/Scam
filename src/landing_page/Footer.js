@@ -12,45 +12,45 @@ function Footer() {
         <div class="col">
           <p>Company</p>
 
-          <a href="1">About</a>
+          <a href="/about">About</a>
           <br />
-          <a href="2">Products</a>
+          <a href="/products">Products</a>
           <br />
-          <a href="3">Pricing</a>
+          <a href="/pricing">Pricing</a>
           <br />
-          <a href="4">Referral programme</a>
+          <a href="/referral">Referral programme</a>
           <br />
-          <a href="5">Careers</a>
+          <a href="/careers">Careers</a>
           <br />
-          <a href="6">BIG BULL.tech</a>
+          <a href="/tech">BIG BULL.tech</a>
           <br />
-          <a href="7">Open source</a>
+          <a href="/opensource">Open source</a>
           <br />
-          <a href="8">Press & media</a>
+          <a href="/press">Press & media</a>
           <br />
-          <a href="9">BIG BULL </a>
+          <a href="/">BIG BULL</a>
           <br />
         </div>
         <div class="col">
           <p>Support</p>
-          <a href="10">Contact</a>
+          <a href="/contact">Contact</a>
           <br />
-          <a href="11">Support portal</a>
+          <a href="/support">Support portal</a>
           <br />
-          <a href="12">Z-Connect blog</a>
+          <a href="/blog">Z-Connect blog</a>
           <br />
-          <a href="13">List of charges</a>
+          <a href="/charges">List of charges</a>
           <br />
-          <a href="14">Download and resources</a>
+          <a href="/downloads">Download and resources</a>
           <br />
         </div>
         <div class="col">
           <p>Account</p>
-          <a href="15">Open an account</a>
+          <a href="/signup">Open an account</a>
           <br />
-          <a href="16">Fund transfer</a>
+          <a href="/transfer">Fund transfer</a>
           <br />
-          <a href="17">60 days challenge</a>
+          <a href="/challenge">60 days challenge</a>
           <br />
         </div>
       </div>

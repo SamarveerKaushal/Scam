@@ -20,10 +20,10 @@ function Stats(){
             <p className='text-muted'>With initiatives like Nudge and Kill Switch, we don't just facilitate transactions, but actively help you do better with your money.</p>
             </div>
             <div className='col-6 p-5'>
-               <img src='./images/ecosystem.png'style={{width:"95%"}}/>
+               <img src='./images/ecosystem.png' alt="Ecosystem" style={{width:"95%"}}/>
                <div classname='text-center'>
-                <a href='' className='mx-5' style={{textdecoration:"none"}}>Explore our item <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-                <a href=''  style={{textdecoration:"none"}}>Try new demo</a>
+                <a href='/explore' className='mx-5' style={{textdecoration:"none"}}>Explore our item <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+                <a href='/demo' style={{textdecoration:"none"}}>Try new demo</a>
                </div>
                 </div>
             </div>
