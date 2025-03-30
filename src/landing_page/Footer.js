@@ -6,7 +6,7 @@ function Footer() {
     <div class="container border-top mt-5">
       <div class="row mt-5">
         <div class="col">
-          <img src="./images/BIG_BULL2.jpeg" style={{ width: "50%" }} /> 
+          <img src="./images/BIG_BULL2.jpeg" style={{ width: "50%" }} alt="image"/> 
           <p>&copy; 2010 - 2025, BIG BULL Broking Ltd. All rights reserved.</p>
         </div>
         <div class="col">

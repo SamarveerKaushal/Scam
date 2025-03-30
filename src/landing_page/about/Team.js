@@ -16,6 +16,7 @@ function Team() {
             <img
               src="./images/Samarveer.jpg"
               style={{ borderRadius: "100%", width: "70%" }}
+              alt="image"
             />
             <h4 className="mt-5">Samarveer Kaushal</h4>
             <h6>Founder, CEO</h6>

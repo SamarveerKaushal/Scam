@@ -8,7 +8,7 @@ function Hero(){
           <h4>
             Support Portal
           </h4>
-          <a href="">Track Tickets</a>
+          <a href="0">Track Tickets</a>
        </div>
        <div className="row p-5 m-3">
        <div className="col-6 p-5 p-5">
