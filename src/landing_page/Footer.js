@@ -6,51 +6,51 @@ function Footer() {
     <div class="container border-top mt-5">
       <div class="row mt-5">
         <div class="col">
-          <img src="./images/BIG_BULL2.jpeg" style={{ width: "50%" }} />
+          <img src="./images/BIG_BULL2.jpeg" style={{ width: "50%" }} /> 
           <p>&copy; 2010 - 2025, BIG BULL Broking Ltd. All rights reserved.</p>
         </div>
         <div class="col">
           <p>Company</p>
 
-          <a href="">About</a>
+          <a href="1">About</a>
           <br />
-          <a href="">Products</a>
+          <a href="2">Products</a>
           <br />
-          <a href="">Pricing</a>
+          <a href="3">Pricing</a>
           <br />
-          <a href="">Referral programme</a>
+          <a href="4">Referral programme</a>
           <br />
-          <a href="">Careers</a>
+          <a href="5">Careers</a>
           <br />
-          <a href="">BIG BULL.tech</a>
+          <a href="6">BIG BULL.tech</a>
           <br />
-          <a href="">Open source</a>
+          <a href="7">Open source</a>
           <br />
-          <a href="">Press & media</a>
+          <a href="8">Press & media</a>
           <br />
-          <a href="">BIG BULL </a>
+          <a href="9">BIG BULL </a>
           <br />
         </div>
         <div class="col">
           <p>Support</p>
-          <a href="">Contact</a>
+          <a href="10">Contact</a>
           <br />
-          <a href="">Support portal</a>
+          <a href="11">Support portal</a>
           <br />
-          <a href="">Z-Connect blog</a>
+          <a href="12">Z-Connect blog</a>
           <br />
-          <a href="">List of charges</a>
+          <a href="13">List of charges</a>
           <br />
-          <a href="">Download and resources</a>
+          <a href="14">Download and resources</a>
           <br />
         </div>
         <div class="col">
           <p>Account</p>
-          <a href="">Open an account</a>
+          <a href="15">Open an account</a>
           <br />
-          <a href="">Fund transfer</a>
+          <a href="16">Fund transfer</a>
           <br />
-          <a href="">60 days challenge</a>
+          <a href="17">60 days challenge</a>
           <br />
         </div>
       </div>
